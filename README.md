@@ -4,7 +4,7 @@ AIM : Predict the genre of a movie based on its plot summary and other features.
 
 DESCRIPTION : Use natural language processing (NLP) techniques for text classification on a movie dataset.
 
-DATASET: The dataset used for this project consists of 4 columns, 'id', 'movie_name', 'synopsis', and 'genre'.The dataset used can be found in Kaggle.
+DATASET: The dataset used for this project consists of 4 columns, 'id', 'movie_name', 'synopsis', and 'genre'.The dataset used can be found in Kaggle with name movie_review dataset.
 
 PROJECT OVERVIEW
 This project utilizes Natural Language Processing (NLP) techniques to perform genre prediction based on the plot summary of movies. The goal is to classify movies into their respective genres using machine learning algorithms.
