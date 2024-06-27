@@ -24,10 +24,10 @@ Use TF-IDF vectorization to convert plot summaries into numerical features suita
 4. MODEL TRAINING :
 Split the dataset into training and validation sets.
 Train multiple classifiers including:
-Multinomial Naive Bayes
-Random Forest
-Support Vector Machine (SVM)
-XGBoost
+Multinomial Naive Bayes,
+Random Forest,
+Support Vector Machine (SVM),
+XGBoost(Gradient Boosting).
 Evaluate models to select the best-performing classifier.
 5. MODEL EVALUATION :
 Use accuracy, precision, recall, and F1-score to evaluate model performance.
